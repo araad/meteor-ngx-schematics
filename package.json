@@ -1,6 +1,6 @@
 {
   "name": "meteor-ngx-schematics",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Angular Schematic to generate meteor packages containing an Angular Library",
   "scripts": {
     "build": "tsc -p tsconfig.json",
