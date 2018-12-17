@@ -1,0 +1,9 @@
+{
+    "name": "<%= packageName %>/common",
+    "version": "0.0.0",
+    "description": "Common package",
+    "author": "",
+    "license": "ISC",
+    "main": "<%= entryFile %>.js"
+  }
+  

@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "baseUrl": "../../",
+      "allowSyntheticDefaultImports": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "lib": ["es2015"],
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "target": "es2015",
+      "skipLibCheck": true,
+      "stripInternal": true,
+      "noImplicitAny": false
+    },
+    "meteorNgCompilerOptions": {
+      "verbose": false
+    }
+  }
+  
